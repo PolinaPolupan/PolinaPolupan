@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PolinaPolupan
-- 👀 I’m interested in android development, java backend, computer graphics, ml, computer vision
+- 👀 I’m interested in android development, computer graphics, ml, computer vision
 - 💞️ I’m looking to collaborate on different projects
 - 📫 How to reach me email: polupanpolina9@gmail.com
 
